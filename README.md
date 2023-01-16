@@ -1,4 +1,4 @@
-# MALIS-Project
+# Richter's Predictor: Modeling Earthquake Damage
 
 ![alt text](https://i.natgeofe.com/n/ea3d92b5-0e46-47c5-ab35-bab7d616ec4f/01nepalday2_3x2.jpg)
 
